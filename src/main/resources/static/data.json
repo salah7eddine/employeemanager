@@ -1,0 +1,39 @@
+{
+    "email": "hamza@shm.com",
+    "imageUrl":"https://bootdey.com/img/content/avatar/avatar1.png",
+    "jobTitle": "dev python",
+    "name": "hamza Abousaid",
+    "phone": "4570090332"
+},
+
+{
+    "email": "meryem@shm.com",
+    "imageUrl":"https://bootdey.com/img/content/avatar/avatar4.png",
+    "jobTitle": "doctora",
+    "name": "Meryem Abousaid",
+    "phone": "4570090332"
+},
+
+{
+    "email": "salah@shm.com",
+    "imageUrl":"https://bootdey.com/img/content/avatar/avatar3.png",
+    "jobTitle": "dev",
+    "name": "Salah Abousaid",
+    "phone": "4570090332"
+},
+
+{
+    "email": "Med@shm.com",
+    "imageUrl":"https://bootdey.com/img/content/avatar/avatar4.png",
+    "jobTitle": "météorologiste",
+    "name": "Med Abousaid",
+    "phone": "4570090332"
+},
+
+{
+"email": "Malika@shm.com",
+"imageUrl":"https://bootdey.com/img/content/avatar/avatar8.png",
+"jobTitle": "professeur",
+"name": "Malika Nachet",
+"phone": "4570090332"
+}
